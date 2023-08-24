@@ -24,7 +24,7 @@ python3 httpj.py -h
 python3 httpj.py -l <target_list> <options>
 ```
 
-#Acknowledgement
+Acknowledgement
 --------------------
 
 This tool is inspired by [@projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) work

@@ -5,7 +5,7 @@
 
 > Find alive hosts and detect http or https.
 
-**httpj** is being actively developed by [@J_0K_3R](https://twitter.com/sl0wh_py)
+**httpj** is being actively developed by [@sl0wh_py](https://twitter.com/sl0wh_py)
 
 Installation & Usage
 ------------
